@@ -1,0 +1,26 @@
+{
+  "name": "docker-shell",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.61",
+    "blessed-contrib": "git://github.com/xcezzz/blessed-contrib.git",
+    "cli": "^0.8.0",
+    "docker-stats": "^0.4.0",
+    "dockerode": "^2.1.5",
+    "humanize": "0.0.9",
+    "lodash": "^3.9.3",
+    "mime-db": "^1.13.0",
+    "moment": "^2.10.3",
+    "pty.js": "^0.2.7-1",
+    "request": "^2.58.0",
+    "term.js": "0.0.4",
+    "through2": "^2.0.0"
+  }
+}
